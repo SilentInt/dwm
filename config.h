@@ -89,7 +89,7 @@ static const char *upvol[]   = { "/home/silent/scripts/vol-up.sh",  NULL };
 static const char *downvol[] = { "/home/silent/scripts/vol-down.sh",  NULL };
 static const char *mutevol[] = { "/home/silent/scripts/vol-toggle.sh",  NULL };
 
-static const char *wpcmd[]  = { "/home/david/scripts/wp-change.sh", NULL };
+static const char *wpcmd[]  = { "/home/silent/scripts/wp-change.sh", NULL };
 static const char *screenshotcmd[] = { "flameshot", "gui", NULL };
 
 static Key keys[] = {
